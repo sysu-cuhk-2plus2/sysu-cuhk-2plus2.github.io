@@ -1,1 +1,5 @@
 *.backup
+/Old
+/ready_to_use
+*.psd
+/assets/img/demo
